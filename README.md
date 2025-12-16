@@ -9,7 +9,7 @@ Building different tools and scripts, keeping up with CTFs, and joining competit
 ### Tools & Skills
 Good with Linux, networking, and programming. Experienced in different areas of cybersecurity like penetration testing and vulnerability assessment.
 
-I also run a small homelab that I take care of more than I probably should
+I also run a small homelab that I take care of more than I probably should.
 
 ### 👨‍💻 Learn more about me at https://daradkeh69.github.io/personal-portfolio/
 
