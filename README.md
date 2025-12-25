@@ -7,7 +7,7 @@ I’m very comfortable with Kali Linux and know how to effectively use and adapt
 Building different tools and scripts, keeping up with CTFs, and joining competitions whenever I can. Experimenting with new techniques, exploring exploits, and staying active in the cybersecurity scene.
 
 ### Tools & Skills
-Strong foundation in Linux, networking, finding vulnerabilities.
+Strong foundation in Linux, networking, and finding vulnerabilities.
 
 I also run a small homelab that I take care of more than I probably should. <br>
 With a SIEM setup.
@@ -21,12 +21,8 @@ With a SIEM setup.
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/></code>
@@ -43,7 +39,6 @@ With a SIEM setup.
   <img height="32" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Home_Lab-2C2C2C?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=apache&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/HTTP%2FHTTPS-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=protonvpn&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
