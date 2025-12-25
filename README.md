@@ -10,7 +10,7 @@ Building different tools and scripts, keeping up with CTFs, and joining competit
 Strong foundation in Linux, networking, and finding vulnerabilities.
 
 I also run a small homelab that I take care of more than I probably should. <br>
-With a SIEM setup.
+With a **SIEM setup**.
 
 ### 👨‍💻 Learn more about me at https://daradkeh69.github.io/personal-portfolio/
 
