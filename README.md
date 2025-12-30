@@ -4,7 +4,7 @@
   </a>
 </h1>
 I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
-
+<br> <br>
 I’m very comfortable with Kali Linux and know how to effectively use and adapt its tools for real world scenarios.
 
 ### What am I currently working on
