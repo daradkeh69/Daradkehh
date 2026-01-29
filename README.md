@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=Hi+There!">
   </a>
 </h1>
-I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
+Hands-on cybersecurity builder with a focus on offensive tooling, lab environments, and continuous experimentation. I learn by breaking, building, and improving systems.
 <br> <br>
 I’m very comfortable with Linux Distributions overall and know how to effectively use and adapt Kali and its tools for real world scenarios.
 
